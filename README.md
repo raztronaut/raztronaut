@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./infrared_singularity.svg" width="100%" />
+  <p align="center">
+    <img src="lorentzxz2.svg" alt="Lorentz Attractor">
+  </p>
 </div>
 <br/>
 
