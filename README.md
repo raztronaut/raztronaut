@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <img src="lorentzxz2.svg" alt="Lorentz Attractor">
+    <img src="lorentzxz2.svg" alt="Lorentz Attractor" width="50%">
   </p>
 </div>
 <br/>
@@ -19,6 +19,6 @@
 
 <div align="center">
 
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22resxh2er3ir5hpoi7zxns6a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=22resxh2er3ir5hpoi7zxns6a&redirect=true)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22resxh2er3ir5hpoi7zxns6a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=22resxh2er3ir5hpoi7zxns6a&redirect=true)
 </div>
 
