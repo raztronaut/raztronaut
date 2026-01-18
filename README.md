@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <img src="lorentzxz2.svg" alt="Lorentz Attractor" width="50%">
+    <img src="lorentzxz2.svg?v=2" alt="Lorentz Attractor" width="50%">
   </p>
 </div>
 <br/>
